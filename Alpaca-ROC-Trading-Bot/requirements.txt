@@ -1,0 +1,6 @@
+# Modern dependencies (Updated Nov 2025)
+alpaca-py==0.43.2
+pandas>=2.2.0
+numpy>=1.26.0
+python-dotenv>=1.0.0
+pytz>=2024.1
